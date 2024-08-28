@@ -3,7 +3,7 @@
 - I am looking for a full time job in data science/machine learning engineering.
 - 📫 How to reach me at my LinkedIn page https://www.linkedin.com/in/cemkaraman/
 - 
-  Here are a few projects I completed in my last workplace:  
+  Here are a few projects I worked on in my last workplace:  
   **Liability and Large Loss Prediction**
   The company needed to know what would be the ultimate cost of those accidents that the customers had purchased insurance for. My responsibility was to understand the problem, talk with the stakeholders, prepare the data, suggest and build a solution, test it, present it and put it into production.
   The job was to read the incident description written by people on the field and come up with an estimate of the total cost. I built a convolutional neural network with TensorFlow with transfer learning.  
