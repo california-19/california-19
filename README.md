@@ -17,7 +17,7 @@
   Here are some the tools that I used: Python, XGBoost, seaborn, Grid search, Azure Environments, Azure Pipelines, SQL
 
   **Machine Learning on Azure**
-  This is a project that I worked on my own. I wanted to prepare a set of files to help people automate their machine learning work on Azure. Azure Machine Learning Studio provides a good number of services to help data scientist do their work, but it can be overwhelming to use all these features. In these Notebook files, I provided sample code to register your own data asset, prepare your custom environment, automate machine learning with trying my different models with very little code, track your -metrics -parameters -artifacts (files) during training, hyperparameter tuning and batch inferencing. I provided more information in the readme file of the repository. Here is the link: https://github.com/california-19/Azure_ML_Engineering
+  This is a project that I worked on my own. I wanted to prepare a set of files to help people automate their machine learning work on Azure. Azure Machine Learning Studio provides a good number of services to help data scientist do their work, but it can be overwhelming to use all these features. In these Notebook files, I provided sample code to register data assets, prepare custom environments, automate machine learning with trying different models with very little code, track -metrics -parameters -artifacts (files) during training, hyperparameter tuning and batch inferencing. I provided more information in the readme file of the repository. Here is the link: https://github.com/california-19/Azure_ML_Engineering
 
 
 <!---
